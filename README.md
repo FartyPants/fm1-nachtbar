@@ -2,11 +2,6 @@
 
 ![NACHTBAR, a pink neon sign](docs/img/nachtbar-sign.png)
 
-> **An early test build (nightly 0.9.99-nightly), not a release.** It is here to be tested: it has not been measured on
-> a real FM-1 yet. How it sounds there, its CPU load and the screen's speed are what testers are asked to report.
-
-![The launch screen: FM-1 NACHTBAR, by CRANKY MAN](docs/img/screen-launch.png)
-
 It was a quarter past late. The kind of hour when decent people are asleep and the rest of us are making questionable decisions.
 
 The rain was coming down hard. It had been raining for three days. Maybe four. I stopped counting. The neon sign outside said BAR or it would have, if the B still worked. It had given up sometime last Tuesday.
@@ -24,7 +19,7 @@ I would've told you this was the finest jazz band in town. But that would've bee
 There was no band. Just a little box on the table, twenty-seven keys, and one cranky man who really should have gone to bed three hours ago.
 
 They call it the Nachtbar.
-
+![The launch screen: FM-1 NACHTBAR, by CRANKY MAN](docs/img/screen-launch.png)
 ![HOME with Nightcap playing: the chord B flat 7 large, next E flat major 7, bar 6; the pads with the F4 pad lit](docs/img/screen-home.png)
 ![The Chords page with Neon Rain: E flat minor 7 large, D flat major 7 before it and F7 after it](docs/img/screen-chords.png)
 

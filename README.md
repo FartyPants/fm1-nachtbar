@@ -81,8 +81,7 @@ updater, M-UPGRADE, from <https://www.m-vave.com/download>. Installing other fir
 
 ## Source
 
-The source is GPL-3.0-only and will be published in this repository with version 1.0; until then it is available on
-request (open an issue at <https://github.com/FartyPants/fm1-nachtbar/issues>).
+The source will be published in this repository with version 1.0;
 
 ## Credits
 

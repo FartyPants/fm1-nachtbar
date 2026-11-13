@@ -29,17 +29,17 @@ They call it the Nachtbar.
 
 I don't know. I just know who you are.
 
-You're a seasoned saxophone player, sitting in a nearly empty jazz bar, well past midnight. The lights are low, the smoke has nowhere to go, and the last customer stopped pretending to listen hours ago and it's now sleeping face down on his table. 
+You're a seasoned saxophone player, in a nearly empty jazz bar, well past midnight. The lights are low, the smoke has nowhere to go, and the last customer stopped pretending to listen hours ago and it's now sleeping face down on his table. 
 
-And you play. Slow, breathy solos, notes that bend, linger, and occasionally sound like they have something personal against the world. Nobody's listening. That's never stopped you before.
+And you improvise. Slow, breathy solos, notes that bend, linger, and occasionally sound like they have something personal against the world. Nobody's listening. That's never stopped you before.
 
 Behind you, what's left of the band keep moving at their own steady pace. Soft strings fill the dark corners. A piano up high drops little phrases here and there, like snippets of a conversation. Somewhere in the back, a tired drummer still brushes the skins, keeping time without disturbing what's left of the night.
 
 NACHTBAR ("night bar") is a sibling of NACHTFAHRT.
 
-## The tunes
+## The themes
 
-Twenty-one tunes on the PRESET knob:
+Twenty-one tunes for you to improvise on (the PRESET knob):
 
 1. Neon Rain
 2. First Light
@@ -57,11 +57,13 @@ Twenty-one tunes on the PRESET knob:
 14. After Hours
 15. Last Call
 16. Nightcap
-17. Beach Walk (bossa)
-18. Low Tide (bossa)
-19. Cold (bossa)
-20. Hilltop (bossa)
-21. Once Before (bossa)
+17. Beach (jazz) (bossa)
+18. Tide (jazz) (bossa)
+19. Cold (jazz) (bossa)
+20. Hill (jazz) (bossa)
+21. Once (jazz) (bossa)
+
+Note: the (jazz) pieces are for seasoned saxophone player, not for a spring chicken. They have more surprising chord turns than a slinky.
 
 ## Test it on your FM-1
 

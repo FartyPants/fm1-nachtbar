@@ -8,9 +8,9 @@ The rain was coming down hard. It had been raining for three days. Maybe four. I
 
 Inside, the strings were playing. Nobody knew who hired them. Nobody asked. Around here, you learn not to ask too many questions.
 
-The piano in the corner dropped a note every now and then. Just one. Like an old man who knows something but isn't being paid enough to say it.
+The piano in the corner dropped a note every now and then. Like an old man who knows something but isn't being paid enough to say it.
 
-The drummer was using brushes. Even he seemed reluctant to make a noise. I could relate.
+Sound of brushes on the snare drum. Even the drummer seemed reluctant to make a noise. I could relate.
 
 And then came the saxophone. Slow, smoky, and just a little too honest. The kind of sound that makes you think about lost love. The kind of sound that walks in, orders nothing, and breaks your heart anyway.
 
@@ -27,10 +27,13 @@ They call it the Nachtbar.
 
 ## What the fudge is this?
 
-I don't know. i just know who you are. 
-You are a seasoned saxophone player playing in nearly almost empty jazz bar, long after midnight. Slow breathy solos, the way only you can do, even if nobody is listening. 
+I don't know. I just know who you are.
 
-Under it the tune's chords play at its tempo: soft strings, a high piano playing short gestures, and a quiet drummer with brushes. 
+You're a seasoned saxophone player, sitting in a nearly empty jazz bar, well past midnight. The lights are low, the smoke has nowhere to go, and the last customer stopped pretending to listen hours ago.
+
+But you play anyway. Slow, breathy solos, notes that bend, linger, and occasionally sound like they have something personal against the world. Nobody's listening. That's never stopped you before.
+
+Behind you, what's left of the band keep moving at their own steady pace. Soft strings fill the dark corners. A piano up high drops little phrases here and there, like snippets of a conversation. Somewhere in the back, a tired drummer still brushes the skins, keeping time without disturbing what's left of the night.
 
 NACHTBAR ("night bar") is a sibling of NACHTFAHRT.
 

@@ -41,9 +41,9 @@ after the chords of Europa (Carlos Santana and Tom Coster; the file follows Gato
 the chords of Hymne (Vangelis). The tunes' names are the FM-1 NACHTBAR's own. The FM-1 NACHTBAR is not connected
 with, endorsed by or supported by any of these artists. The other tunes are plain progressions of their styles.
 
-Five more tunes play only the chords of pieces by Antonio Carlos Jobim, with the BOSSA rhythm: Beach Walk: after the
-chords of The Girl from Ipanema; Low Tide: after the chords of Wave; Cold: after the chords of How
-Insensitive; Hilltop: after the chords of Corcovado; Once Before: after the chords of Once I Loved (all by Antonio
+Five more tunes play only the chords of pieces by Antonio Carlos Jobim, with the BOSSA rhythm: Beach (jazz): after the
+chords of The Girl from Ipanema; Tide (jazz): after the chords of Wave; Cold (jazz): after the chords of How
+Insensitive; Hill (jazz): after the chords of Corcovado; Once (jazz): after the chords of Once I Loved (all by Antonio
 Carlos Jobim; read from chord charts Cranky Man supplied, not in the repository). The tunes' names are the FM-1
 NACHTBAR's own; no melody is in the firmware. The FM-1 NACHTBAR is not connected with, endorsed by or supported by
 him, his heirs or his publishers.

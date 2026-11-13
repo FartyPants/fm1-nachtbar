@@ -101,11 +101,11 @@ the player's), under names of their own:
 version); 
 - Candlelight: after the chords of Hymne (Vangelis); 
 - Unseen Man: after the chords of To the Unknown Man (Vangelis; from a transcription of the recording). 
-- Beach Walk: after the chords of The Girl from Ipanema (Antonio Carlos Jobim);
-- Low Tide: after the chords of Wave (Antonio Carlos Jobim);
-- Cold: after the chords of How Insensitive (Antonio Carlos Jobim);
-- Hilltop: after the chords of Corcovado (Antonio Carlos Jobim);
-- Once Before: after the chords of Once I Loved (Antonio Carlos Jobim).
+- Beach (jazz): after the chords of The Girl from Ipanema (Antonio Carlos Jobim);
+- Tide (jazz): after the chords of Wave (Antonio Carlos Jobim);
+- Cold (jazz): after the chords of How Insensitive (Antonio Carlos Jobim);
+- Hill (jazz): after the chords of Corcovado (Antonio Carlos Jobim);
+- Once (jazz): after the chords of Once I Loved (Antonio Carlos Jobim).
 
 The FM-1 NACHTBAR is not connected with any of these artists.
 

@@ -59,7 +59,7 @@ Twenty-one tunes on the PRESET knob:
 16. Nightcap
 17. Beach Walk (bossa)
 18. Low Tide (bossa)
-19. Cold Shoulder (bossa)
+19. Cold (bossa)
 20. Hilltop (bossa)
 21. Once Before (bossa)
 
@@ -102,7 +102,7 @@ version);
 - Unseen Man: after the chords of To the Unknown Man (Vangelis; from a transcription of the recording). 
 - Beach Walk: after the chords of The Girl from Ipanema (Antonio Carlos Jobim);
 - Low Tide: after the chords of Wave (Antonio Carlos Jobim);
-- Cold Shoulder: after the chords of How Insensitive (Antonio Carlos Jobim);
+- Cold: after the chords of How Insensitive (Antonio Carlos Jobim);
 - Hilltop: after the chords of Corcovado (Antonio Carlos Jobim);
 - Once Before: after the chords of Once I Loved (Antonio Carlos Jobim).
 

@@ -37,6 +37,32 @@ Behind you, what's left of the band keep moving at their own steady pace. Soft s
 
 NACHTBAR ("night bar") is a sibling of NACHTFAHRT.
 
+## The tunes
+
+Twenty-one tunes on the PRESET knob:
+
+1. Neon Rain
+2. First Light
+3. Back Alley
+4. Velvet Room
+5. Old Flame
+6. Candlelight
+7. Unseen Man
+8. Royal Road
+9. Dorian Night
+10. Blues Hour
+11. Lullaby
+12. Waltz
+13. Sus Drift
+14. After Hours
+15. Last Call
+16. Nightcap
+17. Beach Walk (bossa)
+18. Low Tide (bossa)
+19. Cold Shoulder (bossa)
+20. Hilltop (bossa)
+21. Once Before (bossa)
+
 ## Test it on your FM-1
 
 - **Try it in the browser first:** the emulator, <https://fartypants.github.io/fm1-nachtbar/nightly/emu/> (the same code the FM-1 runs, with sound and
@@ -74,6 +100,11 @@ the player's), under names of their own:
 version); 
 - Candlelight: after the chords of Hymne (Vangelis); 
 - Unseen Man: after the chords of To the Unknown Man (Vangelis; from a transcription of the recording). 
+- Beach Walk: after the chords of The Girl from Ipanema (Antonio Carlos Jobim);
+- Low Tide: after the chords of Wave (Antonio Carlos Jobim);
+- Cold Shoulder: after the chords of How Insensitive (Antonio Carlos Jobim);
+- Hilltop: after the chords of Corcovado (Antonio Carlos Jobim);
+- Once Before: after the chords of Once I Loved (Antonio Carlos Jobim).
 
 The FM-1 NACHTBAR is not connected with any of these artists.
 

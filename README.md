@@ -6,8 +6,6 @@
 > a real FM-1 yet. How it sounds there, its CPU load and the screen's speed are what testers are asked to report.
 
 ![The launch screen: FM-1 NACHTBAR, by CRANKY MAN](docs/img/screen-launch.png)
-![HOME with Nightcap playing: the chord B flat 7 large, next E flat major 7, bar 6; the pads with the F4 pad lit](docs/img/screen-home.png)
-![The Chords page with Neon Rain: E flat minor 7 large, D flat major 7 before it and F7 after it](docs/img/screen-chords.png)
 
 It was a quarter past late. The kind of hour when decent people are asleep and the rest of us are making questionable decisions.
 
@@ -27,13 +25,15 @@ There was no band. Just a little box on the table, twenty-seven keys, and one cr
 
 They call it the Nachtbar.
 
-## What is it?
+![HOME with Nightcap playing: the chord B flat 7 large, next E flat major 7, bar 6; the pads with the F4 pad lit](docs/img/screen-home.png)
+![The Chords page with Neon Rain: E flat minor 7 large, D flat major 7 before it and F7 after it](docs/img/screen-chords.png)
+
+## What the fudge is this?
 
 I don't know. i just know who you are. 
-You are an old saxophone player in a dusty jazz band playing in a half empty bar, long after midnight. Slow breathy solos, the way only you can do, even if nobody is listening. 
+You are a seasoned saxophone player playing in nearly almost empty jazz bar, long after midnight. Slow breathy solos, the way only you can do, even if nobody is listening. 
 
-Under it the tune's chords play at its tempo: soft strings,
-a high sampled piano playing short gestures, and a quiet drummer with brushes. 
+Under it the tune's chords play at its tempo: soft strings, a high piano playing short gestures, and a quiet drummer with brushes. 
 
 NACHTBAR ("night bar") is a sibling of NACHTFAHRT.
 

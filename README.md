@@ -29,9 +29,9 @@ They call it the Nachtbar.
 
 I don't know. I just know who you are.
 
-You're a seasoned saxophone player, sitting in a nearly empty jazz bar, well past midnight. The lights are low, the smoke has nowhere to go, and the last customer stopped pretending to listen hours ago.
+You're a seasoned saxophone player, sitting in a nearly empty jazz bar, well past midnight. The lights are low, the smoke has nowhere to go, and the last customer stopped pretending to listen hours ago and it's now sleeping face down on his table. 
 
-But you play anyway. Slow, breathy solos, notes that bend, linger, and occasionally sound like they have something personal against the world. Nobody's listening. That's never stopped you before.
+And you play. Slow, breathy solos, notes that bend, linger, and occasionally sound like they have something personal against the world. Nobody's listening. That's never stopped you before.
 
 Behind you, what's left of the band keep moving at their own steady pace. Soft strings fill the dark corners. A piano up high drops little phrases here and there, like snippets of a conversation. Somewhere in the back, a tired drummer still brushes the skins, keeping time without disturbing what's left of the night.
 

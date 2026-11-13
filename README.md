@@ -14,7 +14,7 @@ Sound of brushes on the snare drum. Even the drummer seemed reluctant to make a 
 
 And then came the saxophone. Slow, smoky, and just a little too honest. The kind of sound that makes you think about lost love. The kind of sound that walks in, orders nothing, and breaks your heart anyway.
 
-I would've told you this was the finest jazz band in town. But that would've been a lie, and I've already got enough trouble.
+I would've told you this was the finest jazz bar in town. But that would've been a lie, and I've already got enough trouble.
 
 There was no band. Just a little box on the table, twenty-seven keys, and one cranky man who really should have gone to bed three hours ago.
 

@@ -1,0 +1,102 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>FM-1 NACHTBAR · a tenor sax over a song, for the FM-1</title>
+<meta name="description" content="A sampled tenor saxophone for the M-VAVE FM-1 over a backing that plays itself (strings, a high piano and a quiet drummer with brushes on sixteen tunes), snapped to the tune's scale; from a MIDI keyboard or the FM-1's keys.">
+<meta name="theme-color" content="#000000">
+<style>
+/* the screen's colours (NACHTFAHRT's): black, a pale lavender ink, cyan */
+:root { --ground: #000; --card: #0d0b14; --ink: #efe7ff; --muted: #a49cb8; --rule: #241f33; --acc: #7fd8ff;
+        --drone: #b48cff; --seq: #ff6ad5; --lead: #ffd27f; --seq2: #7fd8ff; --atmos: #baae9c; color-scheme: dark; }
+body { background: var(--ground); color: var(--ink); margin: 0; padding-inline: 16px; padding-block: 0 64px;
+       font: 400 17px/1.6 "Helvetica Neue", Helvetica, Arial, sans-serif; }
+.banner { display: block; width: 100%; max-width: 1600px; height: auto; margin: 0 auto 1.6rem; }
+main { max-width: 42rem; margin: 0 auto; }
+h1 { font-size: 2.6rem; font-weight: 600; letter-spacing: .12em; margin: 0 0 .2rem; }
+.sub { text-transform: uppercase; letter-spacing: .1em; font-size: .9rem; color: var(--acc); margin: 0 0 1.2rem;
+       padding-bottom: .8rem; border-bottom: 1px solid var(--rule); }
+h2 { font-size: 1.05rem; font-weight: 400; text-transform: uppercase; letter-spacing: .08em; margin: 2.4rem 0 .6rem;
+     padding-top: .6rem; border-top: 1px solid var(--rule); color: var(--acc); }
+.lede { font-size: 1.15rem; margin: 0 0 1.6rem; }
+.shots { display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 12px; margin: 0 0 1.8rem; }
+.shots img { width: 100%; height: auto; image-rendering: pixelated; border: 1px solid var(--rule); border-radius: 6px; }
+.ways { display: grid; gap: 10px; margin: 0 0 1rem; }
+.ways a { display: block; text-decoration: none; color: var(--ink); background: var(--card); border: 1px solid var(--rule);
+          border-radius: 6px; padding: 12px 16px; }
+.ways a:first-child { border-color: var(--acc); }
+.ways a:hover, .ways a:focus-visible { border-color: var(--acc); }
+a:focus-visible { outline: 2px solid var(--acc); outline-offset: 2px; }
+.ways strong { font-weight: 400; font-size: 1.1rem; text-transform: uppercase; letter-spacing: .06em; display: block; }
+.ways span { color: var(--muted); font-size: .95rem; }
+.ways em.v { font-style: normal; text-transform: none; letter-spacing: 0; }
+ul.layers { padding-left: 1.2rem; margin: 0 0 1rem; }
+ul.layers li { margin: 0 0 .45rem; }
+ul.layers li.d::marker { color: var(--drone); } ul.layers li.s::marker { color: var(--seq); }
+ul.layers li.l::marker { color: var(--lead); } ul.layers li.t::marker { color: var(--seq2); }
+ul.layers li.a::marker { color: var(--atmos); }
+.mood { width: 100%; height: auto; border-radius: 6px; margin: .4rem 0 1rem; }
+p.small { color: var(--muted); font-size: .9rem; }
+.test { border: 2px solid #e0303a; border-radius: 6px; padding: 12px 16px; margin: 0 0 1.6rem; }
+.test strong { color: #ff8a8f; font-weight: 600; text-transform: uppercase; letter-spacing: .06em; }
+.test p { margin: 0 0 .6rem; } .test p:last-child { margin: 0; }
+ol.how { padding-left: 1.4rem; margin: 0 0 1rem; } ol.how li { margin: 0 0 .5rem; }
+a { color: var(--ink); text-decoration-color: var(--acc); text-decoration-thickness: 2px; text-underline-offset: 3px; }
+code { font-size: .9em; }
+</style>
+</head>
+<body>
+<main>
+<img class="banner" src="img/nachtbar-sign.png" width="900" height="300" alt="NACHTBAR, a pink neon sign">
+<h1>FM-1 NACHTBAR</h1>
+<p class="sub">A tenor sax over a song, for the M-VAVE FM-1 · by Cranky Man</p>
+<div class="test" role="note">
+<p><strong>Early test build</strong> · nightly <em>0.9.99-nightly</em>, not a release.</p>
+<p>It is here to be tested. It has not been measured on a real FM-1 yet: how it sounds there, its CPU load and the
+screen's speed are what testers are asked to report.</p>
+</div>
+<p class="lede">A tenor saxophone, recorded by Cranky Man, played one note at a time (keys held together slur, and it
+plays as hard as you strike) over a backing that plays itself: soft strings on the tune's chords, a high piano playing
+short gestures on them (a sampled grand's high notes) and a quiet drummer with brushes, at the tune's tempo. The sax
+snaps to the tune's scale; the song plays from power-on, PLAY stops and starts it, REC holds a chord as long as you
+like, and EDIT opens the tune's chords, to change them and keep them in a user preset. PRESET picks one of sixteen tunes: seven after the chords of pieces by others (Neon Rain after Vangelis's Love
+Theme, and six more), the rest plain progressions of their styles: charts, two endless walks and a drone, in 3, 4 and
+6 beats a bar. Over minutes the backing swells and thins, and some tunes drift up a fourth now and then. Their
+chords; the melody is yours. Play it from a MIDI keyboard (the TRS MIDI jack, or USB from a computer or a MIDI host),
+or from the FM-1's own keys.</p>
+<div class="shots">
+  <img src="img/screen-launch.png" width="240" height="240" alt="The launch screen: FM-1 NACHTBAR, by CRANKY MAN">
+  <img src="img/screen-home.png" width="240" height="240" alt="HOME with Nightcap playing: the chord B flat 7 large, next E flat major 7, bar 6; the pads in the keys' places with the F4 pad lit and the chord's tones outlined; F4 and E flat major under them">
+  <img src="img/screen-song2.png" width="240" height="240" alt="The second Song page with Nightcap: ARC 40 %, DRIFT off, RHYTM swing x2, LEVEL 60 %">
+</div>
+<nav class="ways" aria-label="Test FM-1 NACHTBAR">
+  <a href="nightly/install/"><strong>Install the test build <em class="v">0.9.99-nightly</em></strong><span>From Chrome or Edge, with the FM-1 connected by USB. It replaces the firmware now on the FM-1: read "Before you install" below.</span></a>
+  <a href="nightly/emu/"><strong>Try it in the browser first</strong><span>The same code the FM-1 runs, with sound, and your MIDI keyboard. No FM-1 needed.</span></a>
+  <a href="manual/"><strong>Manual</strong><span>How to play it and what every page does.</span></a>
+  <a href="https://github.com/FartyPants/fm1-nachtbar/issues"><strong>Report</strong><span>What you heard and saw: open an issue on GitHub.</span></a>
+  <a href="https://github.com/FartyPants/fm1-nachtbar#readme"><strong>README on GitHub</strong><span>The README, the licence and the credits.</span></a>
+</nav>
+<h2 id="how-to-test">How to test</h2>
+<ol class="how">
+  <li>Try it in <a href="nightly/emu/">the emulator</a> first if you like, then install it from <a href="nightly/install/">the test build's installer</a>.</li>
+  <li>Listen for dropouts or crackle on busy tunes: DORIAN NIGHT with RHYTM on swing (the second Song page) and PIANO at 100 % (the Song page), for example.</li>
+  <li>Look at the Setup page (GLO) after playing a while: the CPU PEAK and the LONGEST FRAME. Note them with the tune and its settings.</li>
+  <li>The keys' feel: how soft and hard notes come out, and keys held together slurring.</li>
+  <li>The Chords page (EDIT): change a tune's chords, keep them in a user preset with SAVE, load it again with PRESET.</li>
+</ol>
+<p>Report at <a href="https://github.com/FartyPants/fm1-nachtbar/issues">github.com/FartyPants/fm1-nachtbar/issues</a>: the tune, the settings, the figures and what you heard or saw.</p>
+<h2 id="before-you-install">Before you install</h2>
+<p>Installing it replaces the firmware now on the FM-1. SAVE in the FM-1 NACHTBAR writes the place in the flash where other FM-1 firmwares keep their saved settings: theirs may be lost. To go back, install the other firmware again from its own installer; for M-VAVE's own, use the installer's "Back to the stock firmware", or M-VAVE's updater, M-UPGRADE, from
+<a href="https://www.m-vave.com/download">m-vave.com/download</a>. Installing other firmware is at your own risk.</p>
+<p class="small">
+The FM-1 NACHTBAR is based on FM-1 TENOR SAX, the FM-1 Hybrid Piano and NACHTFAHRT (FartyPants; the strings, the walk and the
+piano voice are NACHTFAHRT's, the piano a sampled grand's high notes, VCSL, CC0, by way of Felucca, read by <a href="https://github.com/Daninet/sea-codec">SEA</a>, MIT, as in M-VAVE's <a href="https://github.com/m-vave/fm1_open">fm1_open</a>), themselves based on <a href="https://github.com/sbegueria/fm1-dub">DUB-1</a>
+by sbegueria and <a href="https://github.com/charlesvestal/fm1-amb">AMB-1</a> by Charles Vestal; the platform is Felucca by
+Leo Kuroshita (Hügelton Instruments). The sax and the drums are Cranky Man's own recordings (the brush tap is synthesised, its
+noise section modelled on Skiff's DRUM-X); the codec is QOA (MIT). Seven tunes follow only the chords of pieces by others; the
+FM-1 NACHTBAR is not connected with any of their artists. GPL-3.0-only. The source will be published in <a href="https://github.com/FartyPants/fm1-nachtbar">this repository</a> with version 1.0; until then it is available on request (open an issue at <a href="https://github.com/FartyPants/fm1-nachtbar/issues">github.com/FartyPants/fm1-nachtbar/issues</a>).
+M-VAVE and FM-1 are trademarks of their owners. The FM-1 NACHTBAR is not affiliated with M-VAVE or Hügelton Instruments.</p>
+</main>
+</body>
+</html>

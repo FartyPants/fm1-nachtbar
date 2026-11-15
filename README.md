@@ -1,5 +1,7 @@
 # FM-1 NACHTBAR for the M-VAVE FM-1
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Q5Q5MOB4M)
+
 ![NACHTBAR, a pink neon sign](docs/img/nachtbar-sign.png)
 
 It was a quarter past late. The kind of hour when decent people are asleep and the rest of us are making questionable decisions.
